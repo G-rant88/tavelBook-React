@@ -2,7 +2,7 @@
   "development": {
     "username": "ben",
     "password": "bgrant88",
-    "database": "party_db",
+    "database": "travel_react",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
